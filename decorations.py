@@ -23,9 +23,6 @@ def menu_rooms():
     ui()
 
 
-
-
-
 def see_menu():
     ui()
     print("|\t\t\tMENU\t\t\t|")
@@ -35,7 +32,3 @@ def see_menu():
 def display_notes(index):
     for y in range(1, len(space.room[index])):
         print('\t', y, (space.room[index][y]))
-
-def clear():
-    print('-' *20 + '\n')
-
