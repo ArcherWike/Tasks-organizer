@@ -11,5 +11,5 @@
  
  Run <main.py> and write your notes so you don't forget anything!
 
-EDITING ROOMS:
+# EDITING ROOMS:
 editing of rooms possible in the space.py file
