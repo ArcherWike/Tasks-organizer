@@ -43,7 +43,6 @@ while(run):
     elif (option == '4'):
         print("Papa! Milego dnia!")
         run = False
-        break
     else:
         print("nie ma takiego wyboru!")
 
