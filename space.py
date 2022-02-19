@@ -3,7 +3,7 @@ room = [
          ['wszystkich'], #<--- all rooms option
          ['biuro1'],
          ['biuro2'],
-         ['kanpciapa'],
+         ['kanciapa'],
          ['kuchnia'],
          ['lazienka'],
          ['lobby'],
